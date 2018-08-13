@@ -26,9 +26,14 @@ htdocs/property-shop-ipad/
 /readme.html
 /sitemap.xml
 /sitemap.xml.gz
+*.editorconfig
 
 *.css.map
 *error_log
+
+// Language files
+*.mo
+*.po
 
 # Site Sepcific Excludes
 
